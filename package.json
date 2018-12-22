@@ -1,15 +1,13 @@
 {
   "name": "good-go-to",
   "main": "./lib/good-go-to",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Fast go to file and line from command line searching all panes",
-  "keywords": [
-  ],
+  "keywords": [],
   "repository": "https://github.com/trishume/atom-good-go-to",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
