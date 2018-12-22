@@ -5,9 +5,6 @@
   "description": "A short description of your package",
   "keywords": [
   ],
-  "activationCommands": {
-    "atom-workspace": "good-go-to:toggle"
-  },
   "repository": "https://github.com/atom/good-go-to",
   "license": "MIT",
   "engines": {
