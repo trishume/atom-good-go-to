@@ -1,26 +1,6 @@
 {
   "context-menu": {
-    "atom-text-editor": [
-      {
-        "label": "Toggle good-go-to",
-        "command": "good-go-to:toggle"
-      }
-    ]
   },
   "menu": [
-    {
-      "label": "Packages",
-      "submenu": [
-        {
-          "label": "good-go-to",
-          "submenu": [
-            {
-              "label": "Toggle",
-              "command": "good-go-to:toggle"
-            }
-          ]
-        }
-      ]
-    }
   ]
 }
